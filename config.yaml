@@ -1,3 +1,5 @@
+port: 8000
 listen: true
 whitelist: false
 enableLocalIPs: true
+noAuth: true
