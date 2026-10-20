@@ -1,0 +1,3 @@
+listen: true
+whitelist: false
+enableLocalIPs: true
